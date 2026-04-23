@@ -129,8 +129,8 @@ external repositories.
 | Cell 3 | `RewardTracker(BaseCallback)` class | 1–16 | **Student-written** |
 | Cell 4 | `smooth()` function | 1–7 | **Student-written** |
 | Cell 4 | `evaluate()` function | 10–25 | **Student-written** |
-| Cell 4 | `train_multi_seed()` function | 28–68 | **Student-written** |
-| Cell 4 | `plot_learning_curves()` function | 71–122 | **Student-written** |
+| Cell 4 | `train_multi_seed()` function | 28–68 | **AI help** |
+| Cell 4 | `plot_learning_curves()` function | 71–122 | **AI help** |
 | Cell 5 | Config constants (`TIMESTEPS`, `SEEDS`, `N_EVAL_EPISODES`) | 1–3 | **Student-written** |
 | Cell 6 | CartPole-v1 training loop + reward saving | 1–25 | **Student-written** |
 | Cell 7 | CartPole-v1 results printing + plot call | 1–18 | **Student-written** |
@@ -153,7 +153,7 @@ external repositories.
 
 ## LLM Usage
 
-Claude (Anthropic) was used as a coding and writing assistant. It helped
+Claude sonnet was used as a coding and writing assistant. It helped
 implement `train_multi_seed`, `plot_learning_curves`, environment seeding,
 the Acrobot-v1 experiment, and the Limitations section of the paper.
 All experimental results and technical decisions were produced and verified
