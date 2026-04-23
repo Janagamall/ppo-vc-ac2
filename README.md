@@ -120,12 +120,3 @@ external repositories.
 - **Evaluation:** Separate environment instance, `deterministic=True` (greedy policy)
 - **Raw rewards:** Saved as `.npy` files in `saved_rewards/` for independent verification
 
----
-
-## LLM Usage
-
-Claude sonnet was used as a coding and writing assistant. It helped
-implement `train_multi_seed`, `plot_learning_curves`, environment seeding,
-the Acrobot-v1 experiment, and the Limitations section of the paper.
-All experimental results and technical decisions were produced and verified
-by the author.
