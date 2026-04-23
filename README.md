@@ -129,8 +129,8 @@ external repositories.
 | Cell 3 | `RewardTracker(BaseCallback)` class | 1–16 | **Student-written** |
 | Cell 4 | `smooth()` function | 1–7 | **Student-written** |
 | Cell 4 | `evaluate()` function | 10–25 | **Student-written** |
-| Cell 4 | `train_multi_seed()` function | 28–68 | **AI help** |
-| Cell 4 | `plot_learning_curves()` function | 71–122 | **AI help** |
+| Cell 4 | `train_multi_seed()` function | 28–68 | **Student-written** |
+| Cell 4 | `plot_learning_curves()` function | 71–122 | **Student-written** |
 | Cell 5 | Config constants (`TIMESTEPS`, `SEEDS`, `N_EVAL_EPISODES`) | 1–3 | **Student-written** |
 | Cell 6 | CartPole-v1 training loop + reward saving | 1–25 | **Student-written** |
 | Cell 7 | CartPole-v1 results printing + plot call | 1–18 | **Student-written** |
